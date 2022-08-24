@@ -15,24 +15,26 @@
     d. Selecione PATH e clique em editar. 
     f. NA janela "Editar variável de ambiente",clique em novo e cole o caminho **C:\MinGW\bin**, se esse foi o de instalação.
 
-### 2. Instalar o VSCode
+## Recomendações de IDE
 
-1. Baixar e instalar o (VSCode)[https://code.visualstudio.com/]
+### 1. Instalar o VSCode
+
+1. Baixar e instalar o [VSCode](https://code.visualstudio.com/)
 2. Instalar as extensões: 
     a. C/C++ (Microsoft)
     b. C/C++ Compile
     c. Code Runner
 
-### 3. Instalar o Geany
+### 2. Instalar o Geany
 
 [Download aqui](https://www.geany.org)
 
-### 4. Instalar o Codeblocks
+### 3. Instalar o Codeblocks
 
-(Download aqui)[https://www.geany.org]
+[Download aqui](https://www.geany.org)
 instalar o seguinte pacote: **codeblocks-20.03mingw-setup.exe**
 
-### Testar
+## Testar
 
 Termianl > New Terminal
 
