@@ -2,7 +2,7 @@
 
 ### 1. Instalar o MinGW (Minimal GNU for Windows) - Usuários Windows
 
-1. Baixar a instalar (MinGW)[https://sourceforge.net/projects/mingw/]
+1. Baixar a instalar [MinGW](https://sourceforge.net/projects/mingw/)
 2. Na instalação, certifique-se de marcar os pacotes:
     a. mingw32-base
     b. mingw-32-gcc-g++
