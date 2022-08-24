@@ -1,8 +1,6 @@
 # Configurando ambiente para programação C/C++
 
-## Windows
-
-### 1. Instalar o MinGW (Minimal GNU for Windows)
+### 1. Instalar o MinGW (Minimal GNU for Windows) - Usuários Windows
 
 1. Baixar a instalar (MinGW)[https://sourceforge.net/projects/mingw/]
 2. Na instalação, certifique-se de marcar os pacotes:
@@ -24,4 +22,25 @@
     a. C/C++ (Microsoft)
     b. C/C++ Compile
     c. Code Runner
+
+### 3. Instalar o Geany
+
+[Download aqui](https://www.geany.org)
+
+### 4. Instalar o Codeblocks
+
+(Download aqui)[https://www.geany.org]
+instalar o seguinte pacote: **codeblocks-20.03mingw-setup.exe**
+
+### Testar
+
+Termianl > New Terminal
+
+Tente o seguin comando
+
+```
+gcc hello.c -o hello
+./hello
+```
+
 
