@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
 {
     float notas[5] = {10, 2.5, 3.4, 7.6, 8.9};
     float copiaNotas[5];
-
+    //ERRO!
     copiaNotas = notas;
 
     //exibindo valores
