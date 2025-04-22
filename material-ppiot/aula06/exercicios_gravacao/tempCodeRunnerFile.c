@@ -1,0 +1,1 @@
+printf("O resultado da operação é: %f",resultado);
